@@ -70,7 +70,10 @@ The objectives of this project are:
 
 # Demonstration 🎥
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]("https://www.youtube.com/watch?v=GMGtYrwpsZM")
+[![Demonstration]          // Title
+(https://i9.ytimg.com/vi/GMGtYrwpsZM/mq2.jpg?sqp=CMT5pqEG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGCEgZSgrMA8=&rs=AOn4CLDQ8u5DIbMPlWkjo7mxXg7bYmAqBw![image](https://user-images.githubusercontent.com/74930080/229370895-94326c97-9515-49a0-a89e-eadf3cccc956.png)
+)] // Thumbnail
+(https://www.youtube.com/watch?v=GMGtYrwpsZM "Demonstration")   // Video Link
 
 
 
